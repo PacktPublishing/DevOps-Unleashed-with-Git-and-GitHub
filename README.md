@@ -27,6 +27,35 @@ For detailed SSH setup instructions, you can refer to:
 - [Git Documentation: Generating Your SSH Public Key](https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key)
 - [GitHub Docs: Generating and Adding SSH Key to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
+## Recommendations for Windows Users
+
+Windows users may encounter differences in commands compared to Linux users, especially when using the command prompt. To ease the transition and enhance compatibility, consider the following best practices:
+
+### Command Differences
+
+Here are some common differences between Windows Command Prompt and Linux shell:
+
+- `ls` **command**: Windows Command Prompt uses `dir` instead of `ls` to list directory contents.
+- `echo` **command**:  While the `echo` command works similarly in both environments, Windows users can also use `echo.` to echo a blank line.
+- **File paths**: Windows uses backslashes (`\`) in file paths, while Linux uses forward slashes (`/`).
+
+Also, PowerShell is a powerful alternative to the Command Prompt, offering a more robust and versatile command-line environment.
+It also supports some Linux commands. Please refer to the [official documentation](https://learn.microsoft.com/en-us/powershell/) for more information.
+
+### Using Windows Subsystem for Linux (WSL)
+
+For a more seamless experience with Linux commands and utilities on Windows, consider installing Windows Subsystem for Linux (WSL). WSL allows you to run a Linux distribution directly within Windows, providing access to a full-fledged Linux environment.
+
+You can install WSL by following the instructions provided in the [official Microsoft documentation](https://learn.microsoft.com/en-us/windows/wsl/install).
+
+### Utilizing PowerShell
+
+Alternatively, Windows users can leverage PowerShell, a powerful command-line shell and scripting language built on the .NET Framework. PowerShell offers extensive support for managing both Windows and Linux systems, making it a versatile tool for DevOps tasks.
+
+## Installation of Linux on Windows
+
+To install Linux on Windows using WSL, follow the instructions provided in the [official Microsoft documentation](https://learn.microsoft.com/en-us/windows/wsl/install).
+
 ## About the Author
 
 [Yuki Hattori](https://www.linkedin.com/in/yukihattori/), an architect at GitHub, showcases his hands-on expertise in DevOps and technical advice for enterprise clients. He began as a software engineer and progressed to a Cloud Solution Architect at Microsoft, overseeing cloud architecture and DevOps. A strong advocate for open-source culture within an enterprise, he champions InnerSource adoption, serving as a board member of the InnerSource Commons Foundation. This nonprofit role drives global InnerSource adoption, breaking down organizational silos for innovation.
