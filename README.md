@@ -5,7 +5,6 @@ Unlock the full potential of your DevOps workflow using Git and GitHub to drive 
 ## Table of Contents
 
 - [Technical Requirements](#technical-requirements)
-- [About the Author](#about-the-author)
 - [How to Contribute](#how-to-contribute)
 
 ## Technical Requirements 
