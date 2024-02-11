@@ -1,0 +1,30 @@
+{
+  "name": "left-pad",
+  "version": "1.0.0",
+  "description": "Just left-pad",
+  "main": "index.js",
+  "scripts": {
+    "test": "node dist/test",
+    "test:dist": "node dist/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacktPublishing/DevOps-Unleashed-with-Git-and-GitHub.git"
+  },
+  "keywords": [
+    "left-pad"
+  ],
+  "author": "Yuki Hattori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PacktPublishing/DevOps-Unleashed-with-Git-and-GitHub/issues"
+  },
+  "homepage": "https://github.com/PacktPublishing/DevOps-Unleashed-with-Git-and-GitHub#readme",
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17"
+  }
+}
