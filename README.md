@@ -55,10 +55,7 @@ Alternatively, Windows users can leverage PowerShell, a powerful command-line sh
 ## Installation of Linux on Windows
 
 To install Linux on Windows using WSL, follow the instructions provided in the [official Microsoft documentation](https://learn.microsoft.com/en-us/windows/wsl/install).
-
-## About the Author
-
-[Yuki Hattori](https://www.linkedin.com/in/yukihattori/), an architect at GitHub, showcases his hands-on expertise in DevOps and technical advice for enterprise clients. He began as a software engineer and progressed to a Cloud Solution Architect at Microsoft, overseeing cloud architecture and DevOps. A strong advocate for open-source culture within an enterprise, he champions InnerSource adoption, serving as a board member of the InnerSource Commons Foundation. This nonprofit role drives global InnerSource adoption, breaking down organizational silos for innovation.
+nerSource Commons Foundation. This nonprofit role drives global InnerSource adoption, breaking down organizational silos for innovation.
 
 ## How to Contribute?
 
